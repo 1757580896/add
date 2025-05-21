@@ -2,6 +2,7 @@
 import requests
 import sys
 from pathlib import Path
+import re
 
 # 配置
 PROXY_PREFIX = "https://mg.345564.xyz/proxy.php?url="
@@ -10,49 +11,33 @@ SOURCES = [
     ("https://raw.githubusercontent.com/bharing19/List1/main/1", "processed_url2.txt")
 ]
 TIMEOUT = 10
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-def process_line(line: str) -> str:
-    """处理单行文本"""
-    line = line.strip()
-    if line.startswith(('http://', 'https://')):
-        return f"{PROXY_PREFIX}{line}"
-    return line
+def extract_links(text: str) -> list:
+    """从文本中提取所有HTTP链接"""
+    return re.findall(r'https?://[^\s<>"]+|www\.[^\s<>"]+', text)
 
 def process_source(url: str, output_path: str) -> bool:
     """处理单个URL源"""
     try:
-        print(f"Processing {url}...", file=sys.stderr)
-        resp = requests.get(url, timeout=TIMEOUT)
+        print(f"Fetching {url}...", file=sys.stderr)
+        headers = {"User-Agent": USER_AGENT}
+        resp = requests.get(url, headers=headers, timeout=TIMEOUT)
         resp.raise_for_status()
         
-        with open(output_path, 'w', encoding='utf-8') as f:
-            for line in resp.text.splitlines():
-                f.write(f"{process_line(line)}\n")
+        # 提取所有链接并添加前缀
+        links = extract_links(resp.text)
+        processed_links = [f"{PROXY_PREFIX}{link}" for link in links if link.startswith(('http://', 'https://'))]
         
-        print(f"Success: {url} -> {output_path}", file=sys.stderr)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write("\n".join(processed_links))
+        
+        print(f"Extracted {len(processed_links)} links from {url}", file=sys.stderr)
         return True
     except Exception as e:
         print(f"ERROR processing {url}: {type(e).__name__} - {str(e)}", file=sys.stderr)
         return False
 
-def combine_files(output_files: list, combined_path: str):
-    """合并结果文件"""
-    with open(combined_path, 'w', encoding='utf-8') as out:
-        for file in output_files:
-            out.write(f"=== {Path(file).name} ===\n")
-            with open(file, 'r', encoding='utf-8') as f:
-                out.write(f.read() + "\n\n")
-
 if __name__ == "__main__":
-    # 处理所有源
-    results = [process_source(url, path) for url, path in SOURCES]
-    
-    if all(results):
-        combine_files(
-            output_files=[path for _, path in SOURCES],
-            combined_path="combined_results.txt"
-        )
-        print("All tasks completed successfully", file=sys.stderr)
-    else:
-        print("Some tasks failed", file=sys.stderr)
-        sys.exit(1)
+    success = all(process_source(url, path) for url, path in SOURCES)
+    sys.exit(0 if success else 1)
