@@ -1,4 +1,4 @@
-name: URL Processing
+name: URL Processing Pipeline
 
 on:
   workflow_dispatch:
@@ -21,37 +21,23 @@ jobs:
     - name: Install dependencies
       run: pip install requests==2.31.0
 
-    - name: Run processor with debug
+    - name: Run URL processor
       run: |
-        # 打印当前目录结构
-        echo "=== Initial files ==="
-        ls -lh
-        
-        # 执行脚本并显示详细输出
         python url_processor.py
-        
-        # 检查生成的文件
-        echo -e "\n=== Generated files ==="
-        ls -lh processed_*.txt combined_results.txt 2>/dev/null || echo "No output files found"
-        
-        # 如果文件存在则显示部分内容
-        if [ -f processed_url1.txt ]; then
-          echo -e "\n=== Sample content ==="
-          head -n 3 processed_*.txt
-        fi
 
     - name: Upload artifacts
-      if: success() && exists('processed_url1.txt')
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v4.3.1  # 2024年最新稳定版
       with:
-        name: url-results
+        name: url-processing-results
         path: |
           processed_url*.txt
           combined_results.txt
         retention-days: 3
+        compression-level: 9
 
-    - name: Fail if no output
-      if: success() && !exists('processed_url1.txt')
+    - name: Verify output
       run: |
-        echo "::error::No output files were generated!"
-        exit 1
+        echo "=== File List ==="
+        ls -lh processed_url*.txt combined_results.txt
+        echo -e "\n=== First 3 Lines ==="
+        head -n 3 processed_url*.txt
