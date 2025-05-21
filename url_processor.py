@@ -15,12 +15,18 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
-def process_url(url: str) -> str:
-    """为URL添加代理前缀"""
-    url = url.strip()
-    if url.startswith(('http://', 'https://')):
-        return f"{PROXY_PREFIX}{url}"
-    return url
+def process_line(line: str) -> str:
+    """处理单行文本"""
+    line = line.strip()
+    # 匹配包含逗号的格式（如："频道名称,http://..."）
+    if "," in line:
+        parts = line.split(",", 1)
+        if parts[1].startswith(('http://', 'https://')):
+            return f"{parts[0]},{PROXY_PREFIX}{parts[1]}"
+    # 匹配纯URL格式
+    elif line.startswith(('http://', 'https://')):
+        return f"{PROXY_PREFIX}{line}"
+    return line
 
 def process_source(url: str, output_path: str) -> bool:
     """处理单个URL源"""
@@ -33,7 +39,9 @@ def process_source(url: str, output_path: str) -> bool:
         
         with open(output_path, 'w', encoding='utf-8') as f:
             for line in resp.text.splitlines():
-                f.write(f"{process_url(line)}\n")
+                processed = process_line(line)
+                if processed:  # 跳过空行
+                    f.write(f"{processed}\n")
         
         print(f"✅ 成功生成: {output_path}", file=sys.stderr)
         return True
@@ -41,21 +49,6 @@ def process_source(url: str, output_path: str) -> bool:
         print(f"❌ 处理失败 [{url}]: {type(e).__name__} - {str(e)}", file=sys.stderr)
         return False
 
-def combine_files(output_files: list):
-    """合并结果文件"""
-    with open("combined_results.txt", 'w', encoding='utf-8') as out:
-        for file in output_files:
-            out.write(f"=== {Path(file).name} ===\n")
-            with open(file, encoding='utf-8') as f:
-                out.write(f.read() + "\n\n")
-
 if __name__ == "__main__":
     results = [process_source(url, path) for url, path in SOURCES]
-    
-    if all(results):
-        combine_files([path for _, path in SOURCES])
-        print("✅ 所有任务完成", file=sys.stderr)
-        sys.exit(0)
-    else:
-        print("❌ 部分任务失败", file=sys.stderr)
-        sys.exit(1)
+    sys.exit(0 if all(results) else 1)
