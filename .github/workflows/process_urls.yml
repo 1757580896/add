@@ -8,7 +8,10 @@ on:
 jobs:
   process-urls:
     runs-on: ubuntu-22.04
-    
+
+    # 添加权限设置
+    permissions:
+      contents: write # 允许工作流写入内容解决403问题
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
