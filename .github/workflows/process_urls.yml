@@ -9,9 +9,6 @@ jobs:
   process-urls:
     runs-on: ubuntu-22.04
 
-    # 添加权限设置
-    permissions:
-      contents: write # 允许工作流写入内容解决403问题
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
@@ -22,25 +19,28 @@ jobs:
         python-version: '3.10'
 
     - name: Install dependencies
-      run: pip install requests==2.31.0
+      run: pip install requests==2.31.0 beautifulsoup4==4.12.0
 
-    - name: Run URL processor
+    - name: Run URL processor with debug
       run: |
+        echo "=== Current directory ==="
+        ls -lh
+        
         python url_processor.py
+        
+        echo -e "\n=== Generated files ==="
+        ls -lh processed_*.txt || echo "No output files generated"
+        
+        if [ -f processed_url1.txt ]; then
+          echo -e "\n=== First 5 lines ==="
+          head -n 5 processed_*.txt
+        fi
 
     - name: Upload artifacts
-      uses: actions/upload-artifact@v4.3.1  # 2024年最新稳定版
+      if: success() && (exists('processed_url1.txt') || exists('processed_url2.txt'))
+      uses: actions/upload-artifact@v4
       with:
         name: url-processing-results
         path: |
           processed_url*.txt
-          combined_results.txt
         retention-days: 3
-        compression-level: 9
-
-    - name: Verify output
-      run: |
-        echo "=== File List ==="
-        ls -lh processed_url*.txt combined_results.txt
-        echo -e "\n=== First 3 Lines ==="
-        head -n 3 processed_url*.txt
