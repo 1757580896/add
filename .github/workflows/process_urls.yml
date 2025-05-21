@@ -1,4 +1,4 @@
-name: URL Processing Pipeline
+name: URL Processing and Commit
 
 on:
   workflow_dispatch:
@@ -6,14 +6,16 @@ on:
     - cron: '0 12 * * *'
 
 jobs:
-  process-urls:
+  process-and-commit:
     runs-on: ubuntu-22.04
-    env:
-      PYTHONUNBUFFERED: 1  # 确保Python实时输出日志
+    permissions:
+      contents: write  # 必须有写入仓库的权限
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 获取全部历史
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -21,44 +23,31 @@ jobs:
         python-version: '3.10'
 
     - name: Install dependencies
-      run: pip install requests==2.31.0 beautifulsoup4==4.12.0
+      run: pip install requests==2.31.0
 
     - name: Run URL processor
-      id: processor
-      run: |
-        # 创建临时目录存放输出
-        mkdir -p outputs
-        
-        # 执行处理脚本
-        python url_processor.py
-        
-        # 检查文件生成情况
-        if [ -f processed_url1.txt ]; then
-          echo "file1_exists=true" >> $GITHUB_OUTPUT
-          mv processed_url1.txt outputs/
-        fi
-        
-        if [ -f processed_url2.txt ]; then
-          echo "file2_exists=true" >> $GITHUB_OUTPUT
-          mv processed_url2.txt outputs/
-        fi
-        
-        # 调试输出
-        echo "=== Generated Files ==="
-        ls -lh outputs/ || echo "No files generated"
+      run: python url_processor.py
 
-    - name: Upload artifacts
-      if: ${{ steps.processor.outputs.file1_exists == 'true' || steps.processor.outputs.file2_exists == 'true' }}
-      uses: actions/upload-artifact@v4
-      with:
-        name: url-processing-results
-        path: outputs/*.txt
-        retention-days: 3
-
-    - name: Show results
-      if: always()
+    - name: Commit and push changes
+      if: success()
       run: |
-        echo "=== Final Artifact Contents ==="
-        ls -lh outputs/*.txt 2>/dev/null || echo "No results available"
-        echo -e "\n=== Sample Content ==="
-        head -n 3 outputs/*.txt 2>/dev/null || echo "No content to display"
+        # 配置Git用户
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        
+        # 检查是否有文件变更
+        git add processed_url*.txt combined_results.txt
+        if git diff --cached --quiet; then
+          echo "没有文件变更，无需提交"
+        else
+          git commit -m "Auto-update processed URLs [$(date +'%Y-%m-%d %H:%M')]"
+          git push origin HEAD:${{ github.ref_name }}
+          echo "文件已提交并推送"
+        fi
+
+    - name: Show changes
+      run: |
+        echo "=== 变更文件 ==="
+        git status --porcelain
+        echo -e "\n=== 文件内容示例 ==="
+        head -n 3 processed_url*.txt 2>/dev/null || echo "无文件生成"
