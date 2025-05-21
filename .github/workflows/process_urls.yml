@@ -22,6 +22,7 @@ jobs:
       run: pip install requests==2.31.0 beautifulsoup4==4.12.0
 
     - name: Run URL processor with debug
+      id: processor
       run: |
         echo "=== Current directory ==="
         ls -lh
@@ -32,12 +33,21 @@ jobs:
         ls -lh processed_*.txt || echo "No output files generated"
         
         if [ -f processed_url1.txt ]; then
+          echo "::set-output name=file1_exists::true"
           echo -e "\n=== First 5 lines ==="
           head -n 5 processed_*.txt
+        else
+          echo "::set-output name=file1_exists::false"
+        fi
+
+        if [ -f processed_url2.txt ]; then
+          echo "::set-output name=file2_exists::true"
+        else
+          echo "::set-output name=file2_exists::false"
         fi
 
     - name: Upload artifacts
-      if: success() && (exists('processed_url1.txt') || exists('processed_url2.txt'))
+      if: steps.processor.outputs.file1_exists == 'true' || steps.processor.outputs.file2_exists == 'true'
       uses: actions/upload-artifact@v4
       with:
         name: url-processing-results
