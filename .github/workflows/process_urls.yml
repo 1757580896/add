@@ -8,6 +8,8 @@ on:
 jobs:
   process-urls:
     runs-on: ubuntu-22.04
+    env:
+      PYTHONUNBUFFERED: 1  # 确保Python实时输出日志
 
     steps:
     - name: Checkout code
@@ -21,36 +23,42 @@ jobs:
     - name: Install dependencies
       run: pip install requests==2.31.0 beautifulsoup4==4.12.0
 
-    - name: Run URL processor with debug
+    - name: Run URL processor
       id: processor
       run: |
-        echo "=== Current directory ==="
-        ls -lh
+        # 创建临时目录存放输出
+        mkdir -p outputs
         
+        # 执行处理脚本
         python url_processor.py
         
-        echo -e "\n=== Generated files ==="
-        ls -lh processed_*.txt || echo "No output files generated"
-        
+        # 检查文件生成情况
         if [ -f processed_url1.txt ]; then
-          echo "::set-output name=file1_exists::true"
-          echo -e "\n=== First 5 lines ==="
-          head -n 5 processed_*.txt
-        else
-          echo "::set-output name=file1_exists::false"
+          echo "file1_exists=true" >> $GITHUB_OUTPUT
+          mv processed_url1.txt outputs/
         fi
-
+        
         if [ -f processed_url2.txt ]; then
-          echo "::set-output name=file2_exists::true"
-        else
-          echo "::set-output name=file2_exists::false"
+          echo "file2_exists=true" >> $GITHUB_OUTPUT
+          mv processed_url2.txt outputs/
         fi
+        
+        # 调试输出
+        echo "=== Generated Files ==="
+        ls -lh outputs/ || echo "No files generated"
 
     - name: Upload artifacts
-      if: steps.processor.outputs.file1_exists == 'true' || steps.processor.outputs.file2_exists == 'true'
+      if: ${{ steps.processor.outputs.file1_exists == 'true' || steps.processor.outputs.file2_exists == 'true' }}
       uses: actions/upload-artifact@v4
       with:
         name: url-processing-results
-        path: |
-          processed_url*.txt
+        path: outputs/*.txt
         retention-days: 3
+
+    - name: Show results
+      if: always()
+      run: |
+        echo "=== Final Artifact Contents ==="
+        ls -lh outputs/*.txt 2>/dev/null || echo "No results available"
+        echo -e "\n=== Sample Content ==="
+        head -n 3 outputs/*.txt 2>/dev/null || echo "No content to display"
