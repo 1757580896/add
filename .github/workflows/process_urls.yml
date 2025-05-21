@@ -1,0 +1,37 @@
+name: Process URLs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # 每天运行一次
+
+jobs:
+  process-urls:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write 
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: pip install requests
+      
+    - name: Run URL processor
+      run: python process_urls.py
+      
+    - name: Upload results as artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: processed-urls-results
+        path: |
+          processed_url1.txt
+          processed_url2.txt
+          combined_results.txt
