@@ -3,7 +3,7 @@ name: URL Processing Pipeline
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *'  # 每天UTC时间12:00运行
+    - cron: '0 12 * * *'
 
 jobs:
   process-urls:
@@ -13,7 +13,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Set up Python 3.10
+    - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
@@ -23,21 +23,21 @@ jobs:
 
     - name: Run URL processor
       run: |
-        chmod +x url_processor.py  # 确保可执行权限
         python url_processor.py
 
     - name: Upload artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4.3.1  # 2024年最新稳定版
       with:
         name: url-processing-results
         path: |
           processed_url*.txt
           combined_results.txt
-        retention-days: 7
+        retention-days: 3
+        compression-level: 9
 
     - name: Verify output
       run: |
-        echo "=== Generated Files ==="
+        echo "=== File List ==="
         ls -lh processed_url*.txt combined_results.txt
-        echo -e "\n=== Sample Content ==="
+        echo -e "\n=== First 3 Lines ==="
         head -n 3 processed_url*.txt
