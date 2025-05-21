@@ -1,62 +1,58 @@
 #!/usr/bin/env python3
-"""
-URL 处理器：为指定URL列表中的HTTP链接添加代理前缀
-"""
 import requests
 import sys
 from pathlib import Path
 
-# 配置常量
+# 配置
 PROXY_PREFIX = "https://mg.345564.xyz/proxy.php?url="
-SOURCE_URLS = [
+SOURCES = [
     ("https://raw.githubusercontent.com/cxr9912/cxr2025/main/my.txt", "processed_url1.txt"),
     ("https://raw.githubusercontent.com/bharing19/List1/main/1", "processed_url2.txt")
 ]
-TIMEOUT = 10  # 请求超时时间(秒)
+TIMEOUT = 10
 
-def process_url(url: str) -> str:
-    """为单个URL添加前缀"""
-    url = url.strip()
-    if url.startswith(('http://', 'https://')):
-        return f"{PROXY_PREFIX}{url}"
-    return url
+def process_line(line: str) -> str:
+    """处理单行文本"""
+    line = line.strip()
+    if line.startswith(('http://', 'https://')):
+        return f"{PROXY_PREFIX}{line}"
+    return line
 
-def fetch_and_process(source_url: str, output_file: str) -> bool:
-    """获取并处理单个源URL"""
+def process_source(url: str, output_path: str) -> bool:
+    """处理单个URL源"""
     try:
-        response = requests.get(source_url, timeout=TIMEOUT)
-        response.raise_for_status()
+        print(f"Processing {url}...", file=sys.stderr)
+        resp = requests.get(url, timeout=TIMEOUT)
+        resp.raise_for_status()
         
-        with open(output_file, 'w', encoding='utf-8') as f:
-            for line in response.text.splitlines():
-                f.write(f"{process_url(line)}\n")
+        with open(output_path, 'w', encoding='utf-8') as f:
+            for line in resp.text.splitlines():
+                f.write(f"{process_line(line)}\n")
+        
+        print(f"Success: {url} -> {output_path}", file=sys.stderr)
         return True
     except Exception as e:
-        print(f"Error processing {source_url}: {type(e).__name__} - {str(e)}", file=sys.stderr)
+        print(f"ERROR processing {url}: {type(e).__name__} - {str(e)}", file=sys.stderr)
         return False
 
-def combine_results(output_files: list, combined_file: str) -> None:
-    """合并多个结果文件"""
-    with open(combined_file, 'w', encoding='utf-8') as out:
+def combine_files(output_files: list, combined_path: str):
+    """合并结果文件"""
+    with open(combined_path, 'w', encoding='utf-8') as out:
         for file in output_files:
             out.write(f"=== {Path(file).name} ===\n")
-            with open(file, encoding='utf-8') as f:
+            with open(file, 'r', encoding='utf-8') as f:
                 out.write(f.read() + "\n\n")
 
-def main():
-    """主处理流程"""
-    success = all(fetch_and_process(url, output) for url, output in SOURCE_URLS)
-    
-    if success:
-        combine_results(
-            output_files=[output for _, output in SOURCE_URLS],
-            combined_file="combined_results.txt"
-        )
-        print("Processing completed successfully")
-        sys.exit(0)
-    else:
-        print("Processing failed for some URLs", file=sys.stderr)
-        sys.exit(1)
-
 if __name__ == "__main__":
-    main()
+    # 处理所有源
+    results = [process_source(url, path) for url, path in SOURCES]
+    
+    if all(results):
+        combine_files(
+            output_files=[path for _, path in SOURCES],
+            combined_path="combined_results.txt"
+        )
+        print("All tasks completed successfully", file=sys.stderr)
+    else:
+        print("Some tasks failed", file=sys.stderr)
+        sys.exit(1)
