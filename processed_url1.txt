@@ -32,6 +32,22 @@ AstroRio频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/
 ☘️🍅趣看,#genre#
 翡翠台1,https://mg.345564.xyz/proxy.php?url=http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 CCTV1,https://mg.345564.xyz/proxy.php?url=http://8.138.7.223/【公众号：榴芒电视】/cctv1-rth.m3u8
+鳳凰衛視中文台,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+鳳凰衛視資訊台,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null-4/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+鳳凰衛視香港台,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null-5/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+翡翠台 4K,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/4k/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+明珠台,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null-1/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+無線新聞台,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null-2/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+娛樂新聞台,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null-6/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+黃金翡翠台,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null-7/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+美亞電影台,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null-10/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+PopC,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/popc/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+TVB Plus,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/tvbplus/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+myTV SUPER FREE,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/mytvsuperfree/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+SUPER Kids Channel,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/superkidschannel/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+創世電視,https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null-8/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+中央電視台綜合頻道 (港澳版),https://mg.345564.xyz/proxy.php?url=http://jxiptv.dpdns.org/stream/4gtv/null-9/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 ☘️🍅TVB,#genre#
 無線新聞,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
