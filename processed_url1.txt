@@ -1,76 +1,224 @@
 📺央视频道,#genre#
-CCTV1,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
-CCTV1,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226736/1.m3u8
-CCTV1,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
-CCTV1,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226705/1.m3u8
-CCTV1,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226823/1.m3u8
-CCTV1,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226694/1.m3u8
-CCTV2,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
-CCTV3,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
-CCTV4,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
-CCTV5,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226731/1.m3u8
-CCTV5+,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
-CCTV6,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226699/1.m3u8
-CCTV7,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226721/1.m3u8
-CCTV8,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226715/1.m3u8
-CCTV9,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226651/1.m3u8
-CCTV9,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226657/1.m3u8
-CCTV10,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226708/1.m3u8
-CCTV11,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226714/1.m3u8
-CCTV12,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226723/1.m3u8
-CCTV12,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226748/1.m3u8
-CCTV13,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
-CCTV14,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
-CCTV14,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226663/1.m3u8
-CCTV15,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
-CCTV16,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
-CCTV17,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226727/1.m3u8
-CCTV17,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
+CCTV1综合,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV2财经,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV3综艺,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV4中文国际,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV4美洲,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/608807416?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV4欧洲,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/608807419?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV5体育,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV5+体育赛事,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV6电影,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV7国防军事,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV8电视剧,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV9纪录,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV10科教,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV11戏曲,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV12社会与法,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV13新闻,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV14少儿,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV15音乐,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV16奥林匹克,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV17农业农村,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CGTN外语记录,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/609006487?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CGTN阿拉伯语,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/609154345?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CGTN西班牙语,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/609006450?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CGTN法语,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/609006476?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CGTN俄语,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/609006446?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+老故事,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/884121956?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+发现之旅,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/624878970?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+中学生,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/708869532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CGTN,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/609017205?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 📡卫视频道,#genre#
-北京卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226719/1.m3u8
-东方卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
-天津卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226686/1.m3u8
-重庆卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226680/1.m3u8
-黑龙江卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226716/1.m3u8
-吉林卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226671/1.m3u8
-辽宁卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
-内蒙古卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226685/1.m3u8
-新疆卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226700/1.m3u8
-宁夏卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226691/1.m3u8
-青海卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226696/1.m3u8
-甘肃卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226662/1.m3u8
-陕西卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226707/1.m3u8
-西藏卫视http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
-四川卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226659/1.m3u8
-四川卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226697/1.m3u8
-贵州卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226672/1.m3u8
-贵州卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226676/1.m3u8
-云南卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226709/1.m3u8
-山西卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226704/1.m3u8
-河北卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226684/1.m3u8
-河北卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226665/1.m3u8
-山东卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226693/1.m3u8
-河南卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226668/1.m3u8
-河南卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226687/1.m3u8
-安徽卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226655/1.m3u8
-安徽卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226664/1.m3u8
-江苏卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226692/1.m3u8
-湖北卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226713/1.m3u8
-湖南卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226698/1.m3u8
-江西卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226726/1.m3u8
-江西卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226682/1.m3u8
-浙江卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226690/1.m3u8
-东南卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226670/1.m3u8
-东南卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226675/1.m3u8
-广西卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226681/1.m3u8
-海南卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226679/1.m3u8
-海南卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226683/1.m3u8
-广东卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221227161/1.m3u8
-深圳卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8
-厦门卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226695/1.m3u8
-兵团卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226661/1.m3u8
-西藏卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
-山东教育卫视,https://mg.345564.xyz/proxy.php?url=http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226701/1.m3u8
+东方卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+广东卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/608831231?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江西卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+河南卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+陕西卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+大湾区卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/608917627?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+湖北卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+吉林卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+青海卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+东南卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+海南卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+海峡卫视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/849119120?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+上视东方影视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/617290047?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+上海第一财经,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/608780988?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+南京新闻综合频道,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/838109047?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+南京教科频道,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/838153729?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+南京十八频道,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/838151753?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+体育休闲频道,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/626064707?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏城市频道,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/626064714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏国际,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/626064674?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏教育,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/628008321?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏影视频道,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/626064697?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏综艺频道,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/626065193?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+公共新闻频道,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/626064693?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+淮安新闻综合,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/639731826?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+泰州新闻综合,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/639731818?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+连云港新闻综合,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/639731715?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+宿迁新闻综合,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/639731832?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+徐州新闻综合,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/639731747?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+优漫卡通频道,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/626064703?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+经典香港电影,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/625703337?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+军事迷必看大片,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/617432318?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+新片放映厅,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/619495952?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC动作电影,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC家庭影院,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+高清大片,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/629943678?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+南方影视,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/614961829?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+红色轮播台,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/713600957?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+金色剧场,https://mg.345564.xyz/proxy.php?url=http://sport.pendy.dpdns.org/migu/713591450?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+☘️山西电信央视,#genre#
+CCTV1高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.7:8007
+CCTV2高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.8:8008
+CCTV3高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.9:8009
+CCTV4高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.10:8010
+CCTV5高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.11:8011
+CCTV5+高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.12:8012
+CCTV6高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.13:8013
+CCTV7,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.14:8014
+CCTV8高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.15:8015
+CCTV9高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.16:8016
+CCTV10高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.17:8017
+CCTV11,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.18:8018
+CCTV12高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.19:8019
+CCTV13高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.20:8020
+CCTV14高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.21:8021
+CCTV15,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.22:8022
+CCTV16高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.122:8122
+CCTV17高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.23:8023
+CCTV女性时尚高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.89:8089
+CCTV电视指南高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.90:8090
+CCTV央视文化精品高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.91:8091
+CCTV风云剧场高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.93:8093
+CCTV第一剧场高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.94:8094
+CCTV怀旧剧场高请,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.95:8095
+CCTV风云音乐高请,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.96:8096
+CCTV兵器科技高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.97:8097
+CCTV世界地理高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.99:8099
+CCTV央视台球高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.100:8100
+CCTV风云足球高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.101:8101
+CCTV高尔夫网球高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.102:8102
+中学生,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.104:8104
+老故事,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.87:8087
+CCTV1高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.7:8007
+CCTV2高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.8:8008
+CCTV3高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.9:8009
+CCTV4高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.10:8010
+CCTV5高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.11:8011
+CCTV5+高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.12:8012
+CCTV6高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.13:8013
+CCTV7,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.14:8014
+CCTV8高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.15:8015
+CCTV9高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.16:8016
+CCTV10高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.17:8017
+CCTV11,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.18:8018
+CCTV12高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.19:8019
+CCTV13高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.20:8020
+CCTV14高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.21:8021
+CCTV15,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.22:8022
+CCTV16高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.122:8122
+CCTV17高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.23:8023
+CCTV女性时尚高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.89:8089
+CCTV电视指南高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.90:8090
+CCTV央视文化精品高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.91:8091
+CCTV风云剧场高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.93:8093
+CCTV第一剧场高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.94:8094
+CCTV怀旧剧场高请,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.95:8095
+CCTV风云音乐高请,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.96:8096
+CCTV兵器科技高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.97:8097
+CCTV世界地理高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.99:8099
+CCTV央视台球高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.100:8100
+CCTV风云足球高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.101:8101
+CCTV高尔夫网球高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.102:8102
+中学生,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.104:8104
+老故事,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.87:8087
+☘️山西电信卫视,#genre#
+湖南卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.28:8028
+四川卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.29:8029
+吉林卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.30:8030
+上海卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.31:8031
+湖北卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.32:8032
+东南卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.33:8033
+河南卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.34:8034
+江苏卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.35:8035
+重庆卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.36:8036
+黑龙江卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.37:8037
+浙江卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.38:8038
+深圳卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.39:8039
+广西卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.40:8040
+北京卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.41:8041
+辽宁卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.42:8042
+贵州卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.43:8043
+安徽卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.44:8044
+天津卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.46:8046
+山东卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.47:8047
+河北卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.48:8048
+广东卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.49:8049
+江西卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.52:8052
+陕西卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.50:8050
+甘肃卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.51:8051
+青海卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.53:8053
+云南卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.54:8054
+海南卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.55:8055
+宁夏卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.56:8056
+西藏卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.57:8057
+兵团卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.58:8058
+新疆卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.59:8059
+内蒙古卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.60:8060
+大湾区卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.69:8069
+三沙卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.70:8070
+厦门卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.71:8071
+农林卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.73:8073
+山东教育卫视,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.74:8074
+山西卫视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.1:8001
+湖南卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.28:8028
+四川卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.29:8029
+吉林卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.30:8030
+上海卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.31:8031
+湖北卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.32:8032
+东南卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.33:8033
+河南卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.34:8034
+江苏卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.35:8035
+重庆卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.36:8036
+黑龙江卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.37:8037
+浙江卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.38:8038
+深圳卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.39:8039
+广西卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.40:8040
+北京卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.41:8041
+辽宁卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.42:8042
+贵州卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.43:8043
+安徽卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.44:8044
+天津卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.46:8046
+山东卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.47:8047
+河北卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.48:8048
+广东卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.49:8049
+江西卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.52:8052
+陕西卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.50:8050
+甘肃卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.51:8051
+青海卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.53:8053
+云南卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.54:8054
+海南卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.55:8055
+宁夏卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.56:8056
+西藏卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.57:8057
+兵团卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.58:8058
+新疆卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.59:8059
+内蒙古卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.60:8060
+大湾区卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.69:8069
+三沙卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.70:8070
+厦门卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.71:8071
+农林卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.73:8073
+山东教育卫视,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.74:8074
+山西卫视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.1:8001
+山西经济与科技高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.3:8003
+山西影视高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.4:8004
+山西社会与法治高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.5:8005
+山西文体生活高清,https://mg.345564.xyz/proxy.php?url=http://123.174.106.183:8888/udp/239.1.1.6:8006
+山西经济与科技高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.3:8003
+山西影视高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.4:8004
+山西社会与法治高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.5:8005
+山西文体生活高清,https://mg.345564.xyz/proxy.php?url=http://1.70.35.250:4022/udp/239.1.1.6:8006
 ☘️广东频道,#genre#
 凤凰中文频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
@@ -216,31 +364,50 @@ TVBPlus,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.ph
 澳視綜藝,https://mg.345564.xyz/proxy.php?url=http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 澳門蓮花,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/amlh.php
 ☘️台湾节点4g新闻,#genre#
+鏡電視新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
+東森新聞,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
+華視新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv052/index.m3u8
+民視新聞,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/litv-ftv13/index.m3u8
+三立iNEWS,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
+東森財經新聞,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv153/index.m3u8
+中視新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv074/index.m3u8
+中天新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv009/index.m3u8
+BLOOMBERG TV,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-live059/index.m3u8
+寰宇新聞,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/litv-longturn14/index.m3u8
+寰宇新聞台灣台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv156/index.m3u8
+SBN 全球財經台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-live060/index.m3u8
+寰宇財經,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv158/index.m3u8
+FRANCE24 英文台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-live146/index.m3u8
+半島國際新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/litv-ftv10/index.m3u8
+VOA 美國之音,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/litv-ftv03/index.m3u8
+CNBC Asia 財經台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-live130/index.m3u8
+DW德國之聲,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-live071/index.m3u8
+華視新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv052/index.m3u8
+非凡新聞,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
+非凡商業,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
+台視財經台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv056/index.m3u8
+鏡電視新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
+東森新聞,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
+民視新聞,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-litv-ftv13/index.m3u8
+TVBS新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
+東森財經新聞,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
+中視新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv074/index.m3u8
+中天新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8
+寰宇新聞,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-litv-longturn14/index.m3u8
+寰宇新聞台灣台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
+寰宇財經,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
+半島國際新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-litv-ftv10/index.m3u8
+VOA 美國之音,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-litv-ftv03/index.m3u8
+台視新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
+第1商業台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/li-4gtv-4gtv104/index.m3u8
+台視新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/4gtv-4gtv051/index.m3u8
+中視新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/of-4gtv-4gtv074/index.m3u8
+華視新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/of-4gtv-4gtv052/index.m3u8
+中天新聞台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/of-4gtv-4gtv009/index.m3u8
+寰宇新聞,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/of-litv-longturn14/index.m3u8
+寰宇新聞台灣台,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
+寰宇財經,https://mg.345564.xyz/proxy.php?url=http://4gtv.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
 🍅☘️judy版YouTube, #genre#
-寰宇新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
-三立新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
-鏡新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
-中天新聞台,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
-公視新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=quwqlazU-c8
-民視新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=ylYJSBUgaMA
-台視新聞台,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=xL0ch83RAK8
-中視新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=TCnaIE_SAtM
-華視新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=wM0g8EoUZ_E
-TVBS NEWS,https://mg.345564.xyz/proxy.php?url=http://223.16.133.25:35455/youtube/m_dhMSvUCIc?quality=1080
-TVBS 選新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=d1jUeoc3pio
-CCTV4 中文國際,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=SdzewdkJa-o
-鳳凰衛視資訊,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=HFib76ySpbU
-三立 iNEWS,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=BlKaF8og0jo
-東森新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
-東森財經新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=1I2iq41Akmo
-寰宇財經新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=WTRQiVWK1jY
-FRANCE 24,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=l8PMl7tUDIE
-ANN NEWS,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=coYw-eVU0Ks
-NHK WORLD,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=f0lYkdA-Gtw
-TBS NEWS,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=ohI356mwBp8
-大愛電視,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=MIqUplvSRWA
-大愛電視2,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=DTNkEm6jaqQ
-中視經典綜藝,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=ADDSmXoPDY8
 ☘️YouTuBe 陈湘儒,#genre#
 凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -267,53 +434,6 @@ FRANCE24English,https://mg.345564.xyz/proxy.php?url=https://m.youtube.com/watch?
 NHKWORLD,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=f0lYkdA-Gtw
 EuronewsEnglish,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=pykpO5kQJ98
 🍅YouTube新闻,#genre#
-鏡新闻,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
-寰宇新闻,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
-ABC News,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=-mvUkiILTqI
-鳳凰衛視資訊台,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=HFib76ySpbU
-鳳凰衛視資訊台2,https://mg.345564.xyz/proxy.php?url=https://m.youtube.com/@phoenixtvhk/live
-#凤凰卫视资讯台,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=a3WZVssKlAI
-年代新聞,https://mg.345564.xyz/proxy.php?url=http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞2,https://mg.345564.xyz/proxy.php?url=http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8
-中天新闻,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
-#中天新闻,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=oIgbl7t0S_w
-中天亚洲新闻,https://mg.345564.xyz/proxy.php?url=http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新闻2台,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=WPfPjbOLNfE
-TVBS NEWS,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=m_dhMSvUCIc
-TVBS 新闻,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/c/TVBSNEWS01/live
-#東森新闻,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=S5WOGu2HSes
-東森Live51,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
-東森Live,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=V1p33hqPrUk
-#東森Live2,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=LuQ4S-i5zoE
-#三立Live,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=oZdzzvxTfUY
-三立Live,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
-三立NEWS+,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=hGJkDZDchYI
-#三立NEWS+,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=FoBfXvlOR6I
-三立iNEWS,hhttps://smart.pendy.dpdns.org/youtube.php?id=pF507BLtbqU
-#三立iNEWS,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=CKjSm5ZeehE
-三立NEWS+2,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/c/三立LIVE新聞/live
-民视新闻台,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=ylYJSBUgaMA
-公視新聞網,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=quwqlazU-c8
-#公視,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=C6gYqSHLRw4
-#公视台语,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=6KlRR_DGhmI
-中视新闻,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=TCnaIE_SAtM
-台视新闻,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=xL0ch83RAK8
-華視新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=wM0g8EoUZ_E
-寰宇台灣,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=w87VGpgd90U
-#寰宇新聞台灣台,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=UcTIv4ZaE5Y
-東森財經新聞,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=WHEPzbFA3hw
-东森财经股市,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=AEBeWMM1atA
-#东森财经股市2,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=LbS-xQ67fos
-#寰宇財經台,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=25SE1bbTv9k
-新唐人亞太,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=WIhgU_mc05A
-新唐人亞太2,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/@NTDAPTV/live
-大陸尋奇,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=fl1iFkAWcVU
-中視經典綜藝,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=ADDSmXoPDY8
-华视综艺,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/c/TBSCTSSHOW/live
-#豬哥會社,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=htGDPsz2BYI
-掌声响起,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=EVATvtQHjyg
-TaiwanPlus,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=Smy2zVGK9x0
-8视界,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=RvSOIM620bA
 ☘️新马,#genre#
 Astro Ria,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Channel 5 HD,https://mg.345564.xyz/proxy.php?url=https://cdn6.163189.xyz/live/ch5/stream.m3u8
@@ -325,7 +445,56 @@ Channel U HD,https://mg.345564.xyz/proxy.php?url=http://80story.eu.org:8880/IPTV
 翡翠華麗台1,https://mg.345564.xyz/proxy.php?url=http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 翡翠華麗台2,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠華麗台3,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-☘️4K频道,#genre#
+☘️香港judy频道,#genre#
+广东体育,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+翡翠台4K,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,https://mg.345564.xyz/proxy.php?url=https://011v4.pendy.dpdns.org/stream/tvb/feicui/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+翡翠台,https://mg.345564.xyz/proxy.php?url=https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=jade_twn
+无线新闻台,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/inews/index.m3u8
+无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=inews_twn
+明珠台,https://mg.345564.xyz/proxy.php?url=https://011v4.pendy.dpdns.org/stream/tvb/pearl/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+明珠台,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/pearl/index.m3u8
+明珠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVBS,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/tvbs/index.m3u8
+TVBS新闻台,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/tvbsnews/index.m3u8
+凤凰中文,https://mg.345564.xyz/proxy.php?url=https://011v4.pendy.dpdns.org/stream/tvb/pcc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰中文,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰中文,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://011v4.pendy.dpdns.org/stream/tvb/pin/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/fhzx/index.m3u8
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港,https://mg.345564.xyz/proxy.php?url=https://011v4.pendy.dpdns.org/stream/tvb/phk/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰香港,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/fhxg/index.m3u8
+凤凰香港,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+PopC,https://mg.345564.xyz/proxy.php?url=https://011v4.pendy.dpdns.org/stream/tvb/popc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+PopC,https://mg.345564.xyz/proxy.php?url=https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
+美亚电影台,https://mg.345564.xyz/proxy.php?url=https://011v4.pendy.dpdns.org/stream/tvb/cmam/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+美亚电影台,https://mg.345564.xyz/proxy.php?url=https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
+天映频道(印尼),https://mg.345564.xyz/proxy.php?url=https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+TVB Plus,https://mg.345564.xyz/proxy.php?url=https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
+Animax,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/animax/index.m3u8
+华丽翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB Plus,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=j2_twn
+亚洲新闻台,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/newsasia/index.m3u8
+娱乐新闻台,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/enews/index.m3u8
+TVB娱乐新闻台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+千禧经典台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,https://mg.345564.xyz/proxy.php?url=https://011v4.pendy.dpdns.org/stream/tvb/cccm/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+天映经典,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Celestial2
+八度空间,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=TV8
+Astro AOD,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Huahee
 ☘️🍅breezy台灣节点,#genre#
 TVBS新聞,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 東森新聞,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
