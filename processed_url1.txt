@@ -1,61 +1,6 @@
 🌌☘️📺央视频道🍅,#genre#
 🌌☘️📡卫视频道🍅,#genre#
 🌌☘️📡凤凰频道api.mytv666.top🍅,#genre#
-凤凰中文,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
-凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
-凤凰香港,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
-TVBPlus,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPlus
-HOY78,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY78
-无线新闻台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB无线新闻台
-Now新闻台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
-翡翠台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=翡翠台
-明珠台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB明珠台
-娱乐新闻台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB娱乐新闻
-TVB生活台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB生活台
-星河国,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(国)
-星河粤,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(粤)
-功夫台国,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(国)
-功夫台粤,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(粤)
-明珠剧集台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPearlDrama明珠劇集台
-TVB1,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB1
-无线千禧台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB千禧经典
-无线经典台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=MyTV千禧经典台
-TVBS,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBSuperFree
-无线亚洲综合台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲综合娱乐台
-无线亚洲剧台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲剧台
-无线华语剧台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=华语剧台
-无线戏曲台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=戏曲台
-无线粤语片台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=粤语片台
-无线少儿,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=HandsUP
-HOY77,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY77
-HOY76,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY76
-有线赛马,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=HKC18台
-28aI赛马,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=28AI智慧赛马
-黄金翡翠台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=黄金翡翠台
-黄金华剧台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=黃金華劇台
-POPC,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=POPC
-Now爆谷台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now爆谷台
-Now星影台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now星影台
-Now华剧台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now華劇台
-Now剧集台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now劇集台
-Now紫金台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=NowJelli紫金国际
-Now直播台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now直播台
-Now财经台,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now财经台
-VIUTV-粤,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV
-VIUTV-英,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV6
-RTHK-31,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK31
-RTHK-32,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK32
-HUB娱家,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=国外频道&id=娱家台
-HUB都会,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=国外频道&id=都会台
-Ftv1时代,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代1
-Ftv2时代,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代2
-城市电视,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=国外频道&id=城市电视
-天映经典,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映经典
-天映经典国,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(粤)
-天映经典粤,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(国)
-美亚电影国,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(国)
-美亚电影粤,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(粤)
-中国电影,https://mg.345564.xyz/proxy.php?url=http://api.mytv666.top/api/qwt.php?t=香港频道&id=中国电影频道
 📺☘️收集TVB,#genre#
 翡翠1台,https://mg.345564.xyz/proxy.php?url=http://cdn6.16899.ggff.net/live/tvb1/stream.m3u8
 翡翠综合台,https://mg.345564.xyz/proxy.php?url=http://cdn6.16899.ggff.net/live/j1/stream.m3u8
@@ -96,7 +41,7 @@ AstroRio频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/
 澳门Mac频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳视澳门频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=asam
 重温经典频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
-☘️🍅香港SMT【紅杏节点】,#genre#
+☘️🍅香港SMT【紅杏香港节点】,#genre#
 CCTV1,https://mg.345564.xyz/proxy.php?url=http://8.138.7.223/【公众号：榴芒电视】/cctv1-rth.m3u8
 凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰香港,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
@@ -173,7 +118,7 @@ Channel U HD,https://mg.345564.xyz/proxy.php?url=http://80story.eu.org:8880/IPTV
 澳視綜藝,https://mg.345564.xyz/proxy.php?url=http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 澳門蓮花,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/amlh.php
 ☘️香港频道,#genre#
-☘️🍅breezy台灣节点,#genre#
+☘️🍅breezy【台灣节点】,#genre#
 TVBS新聞,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 東森新聞,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
 民視新聞,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
