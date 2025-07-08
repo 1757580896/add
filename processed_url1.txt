@@ -1,7 +1,59 @@
 🌌☘️📺央视频道🍅,#genre#
 🌌☘️📡卫视频道🍅,#genre#
-🌌☘️📡凤凰频道api.mytv666.top🍅,#genre#
-📺☘️收集TVB,#genre#
+🌌☘️📡凤凰台湾频道122.117.71.103:8661🍅,#genre#
+中天新闻频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8661/中天新闻.m3u8
+东森新闻频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8660/东森新闻.m3u8
+tvbs新闻频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8662/tvbs新闻.m3u8
+三立新闻频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8683/三立新闻.m3u8
+年代新闻频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8659/年代新闻.m3u8
+非凡新闻频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8664/非凡新闻.m3u8
+闽镜新闻频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8697/闽镜新闻.m3u8
+民视新闻频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8682/民视新闻.m3u8
+公视闽南频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8624/公视闽南.m3u8
+民视闽南频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8623/民视闽南.m3u8
+中视闽南频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8630/中视闽南.m3u8
+华视闽南频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8622/华视闽南.m3u8
+tvbs闽南频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8663/tvbs闽南.m3u8
+tvbs欢乐频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8654/tvbs欢乐.m3u8
+三立闽南频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8643/三立闽南.m3u8
+三立都会频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8644/三立都会.m3u8
+中天综合频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8648/中天综合.m3u8
+中天娱乐频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8649/中天娱乐.m3u8
+东森综合频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8646/东森综合.m3u8
+东森超视频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8647/东森超视.m3u8
+东森财经频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8684/东森财经.m3u8
+东森幼幼频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8636/东森幼幼.m3u8
+东森戏剧频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8652/东森戏剧.m3u8
+龙华戏剧频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8656/龙华戏剧.m3u8
+龙华卡通频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8637/龙华卡通.m3u8
+龙华日韩频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8657/龙华日韩.m3u8
+龙华偶像频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8680/龙华偶像.m3u8
+纬来电影频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8666/纬来电影.m3u8
+纬来综合频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8638/纬来综合.m3u8
+纬来戏剧频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8655/纬来戏剧.m3u8
+纬来日本频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8681/纬来日本.m3u8
+八大第一频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8639/八大第一.m3u8
+八大综合频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8640/八大综合.m3u8
+八大戏剧频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8653/八大戏剧.m3u8
+年代综合频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8651/年代综合.m3u8
+东风卫视频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8650/东风卫视.m3u8
+海峡卫视频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8674/海峡卫视.m3u8
+人间卫视频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8631/人间卫视.m3u8
+大爱电视频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8632/大爱电视.m3u8
+好消息台频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8625/好消息台.m3u8
+非凡商业频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8665/非凡商业.m3u8
+韩国娱乐频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8645/韩国娱乐.m3u8
+闽南Plus频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8658/闽南Plus.m3u8
+MoMo综合道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8564/MoM综合.m3u8
+MoMo亲子国,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8635/MoM亲子.m3u8
+DAZN-壹频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8695/DAZN-壹.m3u8
+TRacesp频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8626/Tracesp.m3u8
+DISCOVery道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8627/discovery.m3u8
+amc电影频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8671/amc电影.m3u8
+TLC'旅游频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8628/TLC旅游.m3u8
+亚洲旅游频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8634/亚洲旅游.m3u8
+动物星球频道,https://mg.345564.xyz/proxy.php?url=http://122.117.71.103:8633/动物星球.m3u8
+☘️[TVB]🍅,#genre#
 翡翠1台,https://mg.345564.xyz/proxy.php?url=http://cdn6.16899.ggff.net/live/tvb1/stream.m3u8
 翡翠综合台,https://mg.345564.xyz/proxy.php?url=http://cdn6.16899.ggff.net/live/j1/stream.m3u8
 翡翠剧集台,https://mg.345564.xyz/proxy.php?url=http://cdn6.16899.ggff.net/live/tvbd/stream.m3u8
@@ -11,8 +63,7 @@
 无线千禧,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbclassic
 翡翠,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=jade_twn
 娛樂新聞台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbentertainment
-☘️🍅[TVB],#genre#
-🍅☘️广东[TVB]频道【PLTV】,#genre#
+🍅☘️广东频道【PLTV】,#genre#
 广东体育,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 无线新闻频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线翡翠频4k,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct4
