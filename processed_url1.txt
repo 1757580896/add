@@ -257,7 +257,6 @@ TVBS,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.ko
 民視台灣台,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001
 民視第一台,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
 中天亞洲,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv109
-☘️Smart☠️源,#genre#
 ☘️🍅香港judy频道,#genre#
 无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=inews_twn
 鳳凰衛視中文台,https://mg.345564.xyz/proxy.php?url=https://011v4.pendy.dpdns.org/stream/tvb/pcc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
@@ -284,3 +283,70 @@ Astro AEC,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.p
 爱奇艺,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Qiyi
 Astro QJ,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Huahee
+☘️php.jdshipin.com/TVOD☠️源,#genre#
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+明珠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+翡翠台北美版(TVB J1),https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB J1,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB Plus,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+NOW新闻台,https://mg.345564.xyz/proxy.php?url=http://cdn.163189.xyz/live/now/stream.m3u8
+翡翠台4K,https://mg.345564.xyz/proxy.php?url=http://cdn6.163189.xyz/live/fct4k/stream.m3u8
+翡翠台(字幕),https://mg.345564.xyz/proxy.php?url=http://mytv.101.qzz.io/hls/fct/playlist.m3u8
+明珠台(字幕),https://mg.345564.xyz/proxy.php?url=http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=jade_twn
+华丽翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali
+无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
+TVB生活台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+TVB娱乐新闻台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+VIUTV,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+HOY TV,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+凤凰中文,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+美亚电影,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+重温经典,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+广东珠江,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+澳视澳门,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=as
+RTHK31,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+CCTV1港澳版,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+八度空间,https://mg.345564.xyz/proxy.php?url=https://cdn6.163189.xyz/live/8tv/stream.m3u8
+CH5,https://mg.345564.xyz/proxy.php?url=https://cdn6.163189.xyz/live/ch5/stream.m3u8
+CH8,https://mg.345564.xyz/proxy.php?url=https://cdn6.163189.xyz/live/ch8/stream.m3u8
+CHU,https://mg.345564.xyz/proxy.php?url=https://cdn6.163189.xyz/live/chu/stream.m3u8
+龙华电影,https://mg.345564.xyz/proxy.php?url=https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://mg.345564.xyz/proxy.php?url=https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://mg.345564.xyz/proxy.php?url=https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://mg.345564.xyz/proxy.php?url=https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://mg.345564.xyz/proxy.php?url=https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://mg.345564.xyz/proxy.php?url=https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华洋片,https://mg.345564.xyz/proxy.php?url=https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+TVB星河, http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+千禧经典台, http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB娱乐新闻台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbentertainment
+天映频道, http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Celestial2
+Astro AOD,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro AEC,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=AEC
+爱奇艺,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Qiyi
+Astro QJ,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Huahee
+八度空间,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=TV8
+华丽翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+亚洲武侠,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB星河,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
