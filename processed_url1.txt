@@ -90,8 +90,9 @@ CCTV15-音乐,https://mg.345564.xyz/proxy.php?url=http://218.13.167.110:9901/tsf
 湖北卫视,https://mg.345564.xyz/proxy.php?url=http://218.13.167.110:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,https://mg.345564.xyz/proxy.php?url=http://218.13.167.110:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 🥮港台频道🍅,#genre#
-翡翠台,https://mg.345564.xyz/proxy.php?url=http://erp.giihgtidg.com:8080/live/jade01.m3u8
-翡翠台,https://mg.345564.xyz/proxy.php?url=http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台腾讯云,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+翡翠台1,https://mg.345564.xyz/proxy.php?url=http://erp.giihgtidg.com:8080/live/jade01.m3u8
+翡翠台2,https://mg.345564.xyz/proxy.php?url=http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 台湾台,https://mg.345564.xyz/proxy.php?url=https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 环球电视,https://mg.345564.xyz/proxy.php?url=http://utv1.hqtvzb.com:9999/hls/world.m3u8
 无线新闻,https://mg.345564.xyz/proxy.php?url=http://erp.giihgtidg.com:8080/live/wxxw01.m3u8?hls_ctx=5l3k567n
