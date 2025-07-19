@@ -100,22 +100,13 @@ CCTV15-音乐,https://mg.345564.xyz/proxy.php?url=http://218.13.167.110:9901/tsf
 VIUTV,https://mg.345564.xyz/proxy.php?url=https://smt.1789.dpdns.org/smt3.2.1.php?id=viu1_twn
 HOY77,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 Plus综合频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8890/bysid/82.m3u8#https://vdm6-hw.nbgdsygs.com/live/h6-2.flv#https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-有线新闻频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8891/bysid/78.m3u8
-无线新闻频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-无线翡翠频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-无线明珠频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8890/bysid/2.m3u8
-有线赛讯频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8891/bysid/76.m3u8
-有线综讯频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8891/bysid/77.m3u8
-ViuTv_频道粤,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8889/bysid/99.m3u8
-ViuTv_频道英,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8889/bysid/96.m3u8
-RTHK-31频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8892/bysid/31.m3u8
-RTHK-32频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8892/bysid/32.m3u8
-RTHK-33频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8892/bysid/33.m3u8
-RTHK-34频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8892/bysid/34.m3u8
-记录频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8892/bysid/34.m3u8
-ViuTVsix,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8889/bysid/96.m3u8
-ViuTV,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8889/bysid/99.m3u8
-翡翠台beishan,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+翡翠台字幕,https://mg.345564.xyz/proxy.php?url=http://edge2.163189.xyz/o12.php?id=fct
+明珠台字幕,https://mg.345564.xyz/proxy.php?url=http://edge2.163189.xyz/o12.php?id=mzt
+无线新闻字幕,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/wxxw
+HOY TV,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/hoy
+八度空间,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/8tv
+CH8,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch8
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhzx
 🍅☘️广东和香港频道【PLTV】,#genre#
 广东体育,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东珠江,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
@@ -565,3 +556,29 @@ DW-之声4Gtv,https://mg.345564.xyz/proxy.php?url=https://www.judy.xx.kg/judy.ph
 东森购贰4Gtv,https://mg.345564.xyz/proxy.php?url=https://www.judy.xx.kg/judy.php?id=4gtv-4gtv103
 东森购叁4Gtv,https://mg.345564.xyz/proxy.php?url=https://www.judy.xx.kg/judy.php?id=4gtv-live048
 东森购五4Gtv,https://mg.345564.xyz/proxy.php?url=https://www.judy.xx.kg/judy.php?id=4gtv-live049
+🍅☘️香港频道【api.mg.itv888.cn】,#genre#
+翡翠台1,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+翡翠台2 backup,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
+iNews 新闻台,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+J 2,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+珍珠台,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+凤凰深圳旁边,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+HOY资讯台,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+RHK 31,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
+VIUTV1,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
+RHK 32,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
+凤凰卫视,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+Viu6,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+🍅☘️色色【】,#genre#
+pigo,https://mg.345564.xyz/proxy.php?url=http://111.226.214.122:80/ali2-wt-live-pull.fb-games-rel.cc/live/7bae8cbf22152f2b790e6998cfc2b306.flv
+极限,https://mg.345564.xyz/proxy.php?url=http://112.19.1.169:80/ali2-wt-live-pull.fb-games-rel.cc/live/0a9f107551a0f1771607a2086747b8fc.flv
+happy,https://mg.345564.xyz/proxy.php?url=http://112.19.1.169:80/ali2-wt-live-pull.fb-games-rel.cc/live/5661822d84db590396b45c82c4dd8b80.flv
+香蕉,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/0e70e43eb0edcada4c9f194c711ee57b.flv
+惊艳,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/b2b0fd428833d02759b5fa5ab9fec128.flv
+潘朵拉,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/6f8c87c0bc2d5ef3d1ff2bda46857706.flv
+彩虹电影,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/38eb570f632ca743d3bfb3eb4688a965.flv
+K频道,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/48f822a189a9a98f95cb210a993170c6.flv
+E频道,https://mg.345564.xyz/proxy.php?url=http://182.201.241.19:80/ali2-wt-live-pull.fb-games-rel.cc/live/33c6954d6f5ca6efdb190b193141cbd9.flv
+松视3,https://mg.345564.xyz/proxy.php?url=http://60.213.135.97:80/ali2-wt-live-pull.fb-games-rel.cc/live/7bebaaab9624d99f73ec3f58156e3e6e.flv
+松视1,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/141171309f55485e19b6504366364767.flv
