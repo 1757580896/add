@@ -523,17 +523,6 @@ RHK 32,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/18c5
 凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 Viu6,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
 🍅☘️色色【】,#genre#
-pigo,https://mg.345564.xyz/proxy.php?url=http://111.226.214.122:80/ali2-wt-live-pull.fb-games-rel.cc/live/7bae8cbf22152f2b790e6998cfc2b306.flv
-极限,https://mg.345564.xyz/proxy.php?url=http://112.19.1.169:80/ali2-wt-live-pull.fb-games-rel.cc/live/0a9f107551a0f1771607a2086747b8fc.flv
-happy,https://mg.345564.xyz/proxy.php?url=http://112.19.1.169:80/ali2-wt-live-pull.fb-games-rel.cc/live/5661822d84db590396b45c82c4dd8b80.flv
-香蕉,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/0e70e43eb0edcada4c9f194c711ee57b.flv
-惊艳,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/b2b0fd428833d02759b5fa5ab9fec128.flv
-潘朵拉,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/6f8c87c0bc2d5ef3d1ff2bda46857706.flv
-彩虹电影,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/38eb570f632ca743d3bfb3eb4688a965.flv
-K频道,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/48f822a189a9a98f95cb210a993170c6.flv
-E频道,https://mg.345564.xyz/proxy.php?url=http://182.201.241.19:80/ali2-wt-live-pull.fb-games-rel.cc/live/33c6954d6f5ca6efdb190b193141cbd9.flv
-松视3,https://mg.345564.xyz/proxy.php?url=http://60.213.135.97:80/ali2-wt-live-pull.fb-games-rel.cc/live/7bebaaab9624d99f73ec3f58156e3e6e.flv
-松视1,https://mg.345564.xyz/proxy.php?url=http://pullsstx.peiyou.eaydu.com:80/live/141171309f55485e19b6504366364767.flv
 🍅📺YouTube 新聞,#genre#
 民視新聞,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/live/ylYJSBUgaMA?si=e-d0Ns2EB36iyW_3
 民視新聞,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -625,3 +614,25 @@ BBC英國廣播公司新聞(英國)(BBC News),https://mg.345564.xyz/proxy.php?ur
 鳳凰資訊,https://mg.345564.xyz/proxy.php?url=http://www.youtube.com/watch?v=sUISafvOieY
 TVBS56,https://mg.345564.xyz/proxy.php?url=http://www.youtube.com/watch?v=YvdcZ_jpLXE
 東森Live,https://mg.345564.xyz/proxy.php?url=http://www.youtube.com/watch?v=S5WOGu2HSes
+🍅☘️直连测试,#genre#
+HOY TV,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
+ViuTV,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/365d15bad7d95fba0ca015fccc1bb588.flv
+TVB1,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/c55985eebf76a91b12f259549118ed86.flv
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/7099f66df8ea9e3bb15e1023e60f9a68.flv
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/76a5bea61a9b95235ecc8e10efa23a1f.flv
+明珠台,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/c5220acf319f65ba0161a8d82760ed1d.flv
+华丽翡翠台,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/afef8d032299c6cae821da210c3f0975.flv
+无线新闻台,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/8909061706b522e5620dbfe2b5f7d33e.flv
+Astro AOD,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/fe563af50ab5d0fa39513daf2e25e8e9.flv
+TVB亚洲武侠,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/bdb59ec9d515cdad77fe2ed50899adac.flv
+广东珠江,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
+广东体育,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/5f8b6c18643188e8a1ae8aab6811c7b9.flv
+🍅☘️直连测试2,#genre#
+HOY TV,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/hoy
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhzx
+凤凰香港,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhhk
+无线新闻台,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/wxxw
+八度空间,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/8tv
+CH5,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch5
+CH8,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch8
+CHU,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/chu
