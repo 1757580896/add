@@ -469,7 +469,18 @@ Astro AOD,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyinc
 TVB亚洲武侠,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/bdb59ec9d515cdad77fe2ed50899adac.flv
 广东珠江,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
 广东体育,https://mg.345564.xyz/proxy.php?url=http://push-rtmp-hs-spe-f5.douyincdn.com/live/5f8b6c18643188e8a1ae8aab6811c7b9.flv
+鳳凰中文,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=fhzw
+鳳凰資訊,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=fhzx
+鳳凰香港,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=fhhk
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=fct
+TVB PLUS,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=tvbp
+明珠台,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=mz
+無線新聞台,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=wxxw
+美亞電影台,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=meiya
 🍅☘️直连测试2,#genre#
+翡翠台字幕,https://mg.345564.xyz/proxy.php?url=http://edge2.163189.xyz/o12.php?id=fct
+明珠台字幕,https://mg.345564.xyz/proxy.php?url=http://edge2.163189.xyz/o12.php?id=mzt
+翡翠台,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fct
 HOY TV,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/hoy
 凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhzx
 凤凰香港,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhhk
@@ -478,3 +489,12 @@ HOY TV,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/hoy
 CH5,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch5
 CH8,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch8
 CHU,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/chu
+🍅☘️直连测试3,#genre#
+HOY TV,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/hoy
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/fhzx
+凤凰香港,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/fhhk
+无线新闻台,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/wxxw
+八度空间,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/8tv
+CH5,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/ch5
+CH8,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/ch8
+CHU,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/chu
