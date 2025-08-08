@@ -183,89 +183,114 @@ CH8,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch8
 广州南国都市,https://mg.345564.xyz/proxy.php?url=http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 东莞新闻综合,https://mg.345564.xyz/proxy.php?url=https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://mg.345564.xyz/proxy.php?url=https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+【澳門】澳視澳門,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=asam
+【澳門】澳視澳門,https://mg.345564.xyz/proxy.php?url=https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+【澳門】澳視衛星,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=as
+【澳門】澳視衛星,https://mg.345564.xyz/proxy.php?url=https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+【澳門】澳視資訊,https://mg.345564.xyz/proxy.php?url=http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+【澳門】澳視體育,https://mg.345564.xyz/proxy.php?url=http://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+【澳門】澳視綜藝,https://mg.345564.xyz/proxy.php?url=http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 🍅☘️香港频道【PLTV】,#genre#
-无线新闻频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-无线翡翠频4k,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct4
-无线翡翠频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-无线翡翠频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-无线翡翠频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct
-凤凰中文频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰资讯频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰香港频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-有线综合粤高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-有线综合国高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
-无线华丽国标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=huali
-无线明珠粤高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-无线明珠频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线娱乐频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-无线星河频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
-TVBJ1美频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=j1
-TVBJ1美频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
-无线星河频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-无线千禧频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-美亚电影频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-VIUTV粤频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-AstroRio频标,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=aod
-澳门Mac频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=as
-澳视澳门频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=asam
-重温经典频高,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+无线新闻频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线翡翠频4k【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct4
+无线翡翠频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+无线翡翠频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+无线翡翠频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct
+凤凰中文频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰资讯频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+凤凰香港频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+有线综合粤高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+有线综合国高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
+无线华丽国标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=huali
+无线明珠粤高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+无线明珠频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+无线娱乐频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+无线星河频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
+TVBJ1美频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=j1
+TVBJ1美频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
+无线星河频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+无线千禧频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+美亚电影频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+VIUTV粤频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+AstroRio频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=aod
+澳门Mac频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=as
+澳视澳门频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=asam
+重温经典频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 ☘️🍅香港SMT【紅杏香港节点】,#genre#
-翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=jade_twn
+无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=inews_twn
+翡翠台【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=jade_twn
+华丽翡翠台【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Xinhe
+明珠台【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB Plus【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=j2_twn
+TVB明珠【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=pearl_twn
+无线华丽【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbjade
+无线千禧【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbclassic
+娛樂新聞台【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbentertainment
+TVB娱乐新闻台【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+千禧经典台【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Celestial2
+凤凰中文【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+八度空间【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=TV8
+Astro AOD【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Huahee
+华丽翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=inews_twn
+美亞電影台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=meiyamovie_t
 华丽翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB星河,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Xinhe
-明珠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-TVB Plus,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=j2_twn
-无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=inews_twn
-TVB娱乐新闻台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 ViuTV,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 ViuTVSix,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 RTHK31,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 千禧经典台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-美亚电影台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 天映频道,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映经典,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Celestial2
-凤凰中文,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰香港,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 八度空间,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=TV8
 Astro AOD,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Aodhd
 Astro AEC,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=AEC
 爱奇艺,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Qiyi
 Astro QJ,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Huahee
-☘️🍅TVB【TVOD】,#genre#
-无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻台,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/inews/index.m3u8
-无线华丽,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbjade
-无线千禧,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbclassic
-翡翠,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=jade_twn
-娛樂新聞台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbentertainment
-無線新聞,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-翡翠台1,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-凤凰中文,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzxMore actions
-凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-TVB Plus,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-翡翠台北美版(TVB J1),https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j1
-CCTV1港澳版,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-广东珠江,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-☘️香港【PLTV】,#genre#
-无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-无线翡翠,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct
-无线翡翠,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-TVB明珠,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=pearl_twn
-TVB千禧经典,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-TVB千禧经典,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbclassic
-TVBJ1美,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=j1
-TVBJ1美,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
-翡翠台版TVBJ1,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j1
-凤凰香港,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-无线千禧,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+☘️🍅香港TVB【TVOD】,#genre#
+无线新闻【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+無線新聞【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻台【TVOD】,https://mg.345564.xyz/proxy.php?url=https://live.tvfix.org/live/inews/index.m3u8
+无线新闻【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+翡翠台【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct
+翡翠台【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+翡翠台【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台1【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠華麗台1【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠華麗台2【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+凤凰中文【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文2【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzxMore actions
+凤凰资讯2【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港2【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+TVB Plus【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+翡翠台北美版(TVB J1)【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j1
+CCTV1港澳版【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+广东珠江【TVOD】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+TVB千禧经典【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB千禧经典【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/smt.php?id=Tvbclassic
+TVBJ1美【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=j1
+TVBJ1美【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
+翡翠台版TVBJ1【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j1
+凤凰香港【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+无线千禧【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 ☘️台湾节点4g新闻,#genre#
 🍅☘️judy版YouTube, #genre#
 🍅☘️陈湘儒YouTuBe ,#genre#
@@ -283,24 +308,6 @@ TVBS新聞,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=2
 東森財經,https://mg.345564.xyz/proxy.php?url=https://m.youtube.com/watch?v=1I2iq41Akmo
 🍅YouTube新闻,#genre#
 ☘️新马澳門,#genre#
-Astro Ria,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Channel 5 HD,https://mg.345564.xyz/proxy.php?url=https://cdn6.163189.xyz/live/ch5/stream.m3u8
-Channel 5 HD,https://mg.345564.xyz/proxy.php?url=http://80story.eu.org:8880/IPTV/AKTV.php?channel=49686c5e01f0328905f91b991a67776c
-Channel 8 HD,https://mg.345564.xyz/proxy.php?url=https://cdn6.163189.xyz/live/ch8/stream.m3u8
-Channel 8 HD,https://mg.345564.xyz/proxy.php?url=http://80story.eu.org:8880/IPTV/AKTV.php?channel=03dd35bb6aeacb472c197b57c98083fa
-Channel U HD,https://mg.345564.xyz/proxy.php?url=https://cdn6.163189.xyz/live/chu/stream.m3u8
-Channel U HD,https://mg.345564.xyz/proxy.php?url=http://80story.eu.org:8880/IPTV/AKTV.php?channel=5412ba7fc35177abd492bccd81e79a2b
-翡翠華麗台1,https://mg.345564.xyz/proxy.php?url=http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
-翡翠華麗台2,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali
-翡翠華麗台3,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-澳視澳門,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳視澳門,https://mg.345564.xyz/proxy.php?url=https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-澳視衛星,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳視衛星,https://mg.345564.xyz/proxy.php?url=https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-澳視資訊,https://mg.345564.xyz/proxy.php?url=http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-澳視體育,https://mg.345564.xyz/proxy.php?url=http://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-澳視綜藝,https://mg.345564.xyz/proxy.php?url=http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-澳門蓮花,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/amlh.php
 ☘️香港频道,#genre#
 ☘️🍅breezy【台灣节点】,#genre#
 TVBS新聞,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
@@ -390,26 +397,7 @@ TVBS,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.ko
 民視台灣台,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001
 民視第一台,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
 中天亞洲,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv109
-☘️🍅香港judy smt频道,#genre#
-华丽翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=inews_twn
-美亞電影台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=meiyamovie_t
-华丽翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVB星河,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Xinhe
-ViuTV,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-ViuTVSix,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-RTHK31,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-RTHK32,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-千禧经典台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-天映频道,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Celestial
-天映经典,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Celestial2
-八度空间,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=TV8
-Astro AOD,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Aodhd
-Astro AEC,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=AEC
-爱奇艺,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Qiyi
-Astro QJ,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Quanjia
-Astro欢喜台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Huahee
-☘️香港jdshipin.com/TVOD【挂T新加坡香港日本美国韩国台湾】,#genre#
+🍅☘️香港jdshipin.com/TVOD【挂T新加坡香港日本美国韩国台湾】,#genre#
 翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -609,33 +597,23 @@ TVB PLUS,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=tvb
 明珠台,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=mz
 無線新聞台,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=wxxw
 美亞電影台,https://mg.345564.xyz/proxy.php?url=http://bx.757888.xyz/api.php?id=meiya
-🍅☘️直连测试2,#genre#
-翡翠台字幕,https://mg.345564.xyz/proxy.php?url=http://edge2.163189.xyz/o12.php?id=fct
-明珠台字幕,https://mg.345564.xyz/proxy.php?url=http://edge2.163189.xyz/o12.php?id=mzt
-翡翠台,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fct
-HOY TV,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/hoy
-凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhzx
-凤凰香港,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhhk
-无线新闻台,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/wxxw
-八度空间,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/8tv
-CH5,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch5
-CH8,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch8
-CHU,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/chu
-🍅☘️直连测试3,#genre#
-HOY TV,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/hoy
-凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/fhzx
-凤凰香港,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/fhhk
-无线新闻台,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/wxxw
-八度空间,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/8tv
-CH5,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/ch5
-CH8,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/ch8
-CHU,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/chu
+翡翠台字幕2,https://mg.345564.xyz/proxy.php?url=http://edge2.163189.xyz/o12.php?id=fct
+明珠台字幕2,https://mg.345564.xyz/proxy.php?url=http://edge2.163189.xyz/o12.php?id=mzt
+翡翠台2,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fct
+HOY TV2,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/hoy
+凤凰资讯2,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhzx
+凤凰香港2,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhhk
+无线新闻台2,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/wxxw
+八度空间2,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/8tv
+CH52,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch5
+CH82,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch8
+CHU2,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/chu
+HOY TV3,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/hoy
+凤凰资讯3,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/fhzx
+凤凰香港3,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/fhhk
+无线新闻台3,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/wxxw
+八度空间3,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/8tv
+CH53,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/ch5
+CH83,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/ch8
+CHU3,https://mg.345564.xyz/proxy.php?url=http://fast.163189.xyz/163189/chu
 🍅☘️色色（挂梯不能看）,#genre#
-极限,https://mg.345564.xyz/proxy.php?url=http://pull.infojin.cyou:80/live/b12b294b23b6c230776e875ffcc8c072.m3u8
-happy,https://mg.345564.xyz/proxy.php?url=http://pull.infojin.cyou:80/live/853bdf11a313c9b0e601ffacad77e167.m3u8
-香蕉,https://mg.345564.xyz/proxy.php?url=http://pull.infojin.cyou:80/live/720ee51b18acb8dafe8bb4dc43e8a42e.m3u8
-潘朵拉,https://mg.345564.xyz/proxy.php?url=http://pull.infojin.cyou:80/live/7d6942f99cb9448155deaddb1f798f77.m3u8
-K频道,https://mg.345564.xyz/proxy.php?url=http://pull.infojin.cyou:80/live/3bed146faa6e61150849614ef78be517.m3u8
-E频道,https://mg.345564.xyz/proxy.php?url=http://pull.infojin.cyou:80/live/3544fc3460a0fdb2b3ac704e7cc0295d.m3u8
-松视3,https://mg.345564.xyz/proxy.php?url=http://pull.infojin.cyou:80/live/ca8ecf577785e0dd0b5de9bb4a204cea.m3u8
-松视1,https://mg.345564.xyz/proxy.php?url=http://pull.infojin.cyou:80/live/b1d57bbbcb682a6be802b5019bfb37c3.m3u8
