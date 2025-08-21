@@ -151,22 +151,15 @@ CCTV17农业农村,https://mg.345564.xyz/proxy.php?url=http://zqh2333.top:2222/r
 翡翠台2,https://mg.345564.xyz/proxy.php?url=http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 台湾台,https://mg.345564.xyz/proxy.php?url=https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 环球电视,https://mg.345564.xyz/proxy.php?url=http://utv1.hqtvzb.com:9999/hls/world.m3u8
-翡翠台字幕,https://mg.345564.xyz/proxy.php?url=http://edge2.163189.xyz/o12.php?id=fct
-明珠台字幕,https://mg.345564.xyz/proxy.php?url=http://edge2.163189.xyz/o12.php?id=mzt
-无线新闻字幕,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/wxxw
-HOY TV,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/hoy
-八度空间,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/8tv
-CH8,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch8
-凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhzx
+翡翠台,https://mg.345564.xyz/proxy.php?url=https://o11.163189.xyz/stream/tvb/fct/
+明珠台,https://mg.345564.xyz/proxy.php?url=https://o11.163189.xyz/stream/tvb/mzt/
+TVB PLUS,https://mg.345564.xyz/proxy.php?url=https://o11.163189.xyz/stream/tvb/tvbp/
+黄金华剧台,https://mg.345564.xyz/proxy.php?url=https://o11.163189.xyz/stream/tvb/hjh
 无线新闻,https://mg.345564.xyz/proxy.php?url=http://erp.giihgtidg.com:8080/live/wxxw01.m3u8?hls_ctx=5l3k567n
 无线翡翠,https://mg.345564.xyz/proxy.php?url=http://erp.giihgtidg.com:8080/live/jade01.m3u8?hls_ctx=a08bsf11
 VIUTV,https://mg.345564.xyz/proxy.php?url=https://smt.1789.dpdns.org/smt3.2.1.php?id=viu1_twn
 HOY77,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 Plus综合频道,https://mg.345564.xyz/proxy.php?url=http://beishan008.asuscomm.com:8890/bysid/82.m3u8#https://vdm6-hw.nbgdsygs.com/live/h6-2.flv#https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-HOY TV,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/hoy
-八度空间,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/8tv
-CH8,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/ch8
-凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://edge.163189.xyz/163189/fhzx
 🌌☘️📡广东本地🍅,#genre#
 广东体育,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东珠江,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
@@ -217,7 +210,7 @@ AstroRio频标【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin
 澳视澳门频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=asam
 重温经典频高【PLTV】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 ☘️🍅香港SMT【紅杏香港节点】,#genre#
-无线新闻,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=inews_twn
 翡翠台【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=jade_twn
 华丽翡翠台【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB星河【SMT】,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -308,39 +301,6 @@ TVBS新聞,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=2
 東森財經,https://mg.345564.xyz/proxy.php?url=https://m.youtube.com/watch?v=1I2iq41Akmo
 🍅YouTube新闻,#genre#
 ☘️新马澳門,#genre#
-☘️1.6vrvwfasiyxst-4gtv頻道,#genre#
-台視,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
-台視新聞,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
-中視,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
-中視新聞,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
-華視,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
-華視新聞,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
-三立新聞iNEWS,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
-中天新聞台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
-寰宇新聞台灣台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
-寰宇新聞台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
-寰宇財經台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
-倪珍播新聞,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
-倪珍英語新聞,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-en&sd=1080&proxy=false
-倪珍越南語新聞,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=false
-好消息,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false
-好消息2台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false
-第1商業台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
-國會頻道1台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false
-國會頻道2台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false
-ELTV生活英語台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
-Smart知識台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
-亞洲旅遊台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
-台灣戲劇台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
-龍華卡通台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=false
-龍華戲劇台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
-龍華偶像台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=false
-龍華日韓台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=false
-龍華經典台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=false
-龍華電影台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
-龍華洋片台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
-東森購物1台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=false
-東森購物2台,https://mg.345564.xyz/proxy.php?url=https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
 ☘️xn-elt51台灣頻道,#genre#
 今日新闻4Gtv,https://mg.345564.xyz/proxy.php?url=http://xn--elt51t.azip.dpdns.org:5008/nnews-zh/index.m3u8?proxy=true
 今日天气4Gtv,https://mg.345564.xyz/proxy.php?url=http://xn--elt51t.azip.dpdns.org:5008/nnews-wf/index.m3u8?proxy=true
@@ -579,6 +539,39 @@ SMArt台4Gtv,https://mg.345564.xyz/proxy.php?url=http://xn--elt51t.azip.dpdns.or
 韩国娱乐4Gtv,https://mg.345564.xyz/proxy.php?url=http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv016/index.m3u8?proxy=true
 TRACEU4Gtv,https://mg.345564.xyz/proxy.php?url=http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv082/index.m3u8?proxy=true
 MEZZOl4Gtv,https://mg.345564.xyz/proxy.php?url=http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv083/index.m3u8?proxy=true
+🍅陈湘儒 ofiii直播,#genre#
+台視,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=ture
+台視新聞,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=ture
+中視,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=ture
+中視新聞,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=ture
+華視,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=ture
+華視新聞,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=ture
+三立新聞iNEWS,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=ture
+中天新聞台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=ture
+寰宇新聞台灣台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=ture
+寰宇新聞台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=ture
+寰宇財經台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=ture
+倪珍播新聞,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=ture
+倪珍英語新聞,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-en&sd=1080&proxy=ture
+倪珍越南語新聞,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=ture
+好消息,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=ture
+好消息2台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=ture
+第1商業台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=ture
+國會頻道1台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=ture
+國會頻道2台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=ture
+ELTV生活英語台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=ture
+Smart知識台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=ture
+亞洲旅遊台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=ture
+台灣戲劇台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=ture
+龍華卡通台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=ture
+龍華戲劇台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=ture
+龍華偶像台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=ture
+龍華日韓台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=ture
+龍華經典台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=ture
+龍華電影台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=ture
+龍華洋片台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=ture
+東森購物1台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=ture
+東森購物2台,https://mg.345564.xyz/proxy.php?url=https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=ture
 ☘️🍅breezy【台灣节点】,#genre#
 TVBS新聞,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 東森新聞,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
