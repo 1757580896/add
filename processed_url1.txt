@@ -1,4 +1,3 @@
-🌌☘️📺央卫SmartTV🍅,#genre#
 🌌☘️📡央卫秒播🍅,#genre#
 CCTV1,https://mg.345564.xyz/proxy.php?url=http://183.222.242.31:8088/hls/1/index.m3u8
 CCTV2,https://mg.345564.xyz/proxy.php?url=http://183.222.242.31:8088/hls/2/index.m3u8
@@ -35,6 +34,17 @@ CCTV5+,https://mg.345564.xyz/proxy.php?url=http://183.222.242.31:8088/hls/16/ind
 河北卫视,https://mg.345564.xyz/proxy.php?url=http://183.222.242.31:8088/hls/33/index.m3u8
 辽宁卫视,https://mg.345564.xyz/proxy.php?url=http://183.222.242.31:8088/hls/34/index.m3u8
 河南卫视,https://mg.345564.xyz/proxy.php?url=http://183.222.242.31:8088/hls/35/index.m3u8
+🌌☘️📺央卫xg.52sw.topk🍅,#genre#
+CCTV1,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv1
+CCTV2,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv2
+CCTV4,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv4
+CCTV13,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv13
+CCTV12,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv12
+CCTV17,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv17
+CCTV7,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv7
+CCTV9,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv9
+CCTV10,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv10
+CCTV4K,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv4k
 🌌☘️📡央视移动🍅,#genre#
 CCTV1-综合,https://mg.345564.xyz/proxy.php?url=http://1857416894.xionguamaqui.com:9901/tsfile/live/0001_1.m3u8
 CCTV2-财经,https://mg.345564.xyz/proxy.php?url=http://1857416894.xionguamaqui.com:9901/tsfile/live/0002_1.m3u8
