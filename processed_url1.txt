@@ -34,17 +34,42 @@ CCTV5+,https://mg.345564.xyz/proxy.php?url=http://183.222.242.31:8088/hls/16/ind
 河北卫视,https://mg.345564.xyz/proxy.php?url=http://183.222.242.31:8088/hls/33/index.m3u8
 辽宁卫视,https://mg.345564.xyz/proxy.php?url=http://183.222.242.31:8088/hls/34/index.m3u8
 河南卫视,https://mg.345564.xyz/proxy.php?url=http://183.222.242.31:8088/hls/35/index.m3u8
-🌌☘️📺央卫xg.52sw.topk🍅,#genre#
-CCTV1,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv1
-CCTV2,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv2
-CCTV4,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv4
-CCTV13,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv13
-CCTV12,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv12
-CCTV17,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv17
-CCTV7,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv7
-CCTV9,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv9
-CCTV10,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv10
-CCTV4K,https://mg.345564.xyz/proxy.php?url=http://xg.52sw.top/cctv.php?id=cctv4k
+🌌☘️📺央卫mytv6688🍅,#genre#
+CCTV-1综合 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv1
+CCTV-2财经,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv2
+CCTV-3综艺 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv3
+CCTV-4中文国际,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv4
+CCTV-4中文国际,,http://mytv6688.xyz/smt.php?id=Cctv4
+CCTV-7军事农业,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv7
+CCTV-8电视剧 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv8hd
+CCTV-9记录 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv9hd
+CCTV-10科教 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv10hd
+CCTV-11戏曲,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv11
+CCTV-12社会与法,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv12
+CCTV-13新闻频道,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv13
+CCTV-14少儿,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv14
+CCTV-6,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv6
+CCTV-15音乐,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv15
+湖南卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=hunan_twn
+浙江卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=zhejiang_twn
+江苏卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=jiangsu_twn
+深圳卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=shenzhen
+东南卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=fujian
+广东南方卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=nanfang_twn
+广东卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=guangdongweishi_twn
+北京卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=beijing
+珠江台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=zhujiang
+广西卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=guangxi
+湖北卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=hubei
+四川卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=sichuan_twn
+东方卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=dongfangweishi_twn
+CGTN,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=CGTN
+凤凰卫视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=phoenixtv_hd
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=phoenixinfo_hd
+CCTV-5体育频道,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv5
+CCTV-5+体育赛事 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv5plus
+TVBS News 新闻台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=tvbs_n
+TVBS 欢乐台 （备份）,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=tvbshuanle_twn
 🌌☘️📡央视移动🍅,#genre#
 CCTV1-综合,https://mg.345564.xyz/proxy.php?url=http://1857416894.xionguamaqui.com:9901/tsfile/live/0001_1.m3u8
 CCTV2-财经,https://mg.345564.xyz/proxy.php?url=http://1857416894.xionguamaqui.com:9901/tsfile/live/0002_1.m3u8
@@ -63,6 +88,148 @@ CCTV14HD,https://mg.345564.xyz/proxy.php?url=http://1857416894.xionguamaqui.com:
 CCTV15HD,https://mg.345564.xyz/proxy.php?url=http://1857416894.xionguamaqui.com:9901/tsfile/live/0015_1.m3u8
 CCTV5+HD,https://mg.345564.xyz/proxy.php?url=http://1857416894.xionguamaqui.com:9901/tsfile/live/0016_1.m3u8
 CETV1HD,https://mg.345564.xyz/proxy.php?url=http://1857416894.xionguamaqui.com:9901/tsfile/live/0017_1.m3u8
+🌌☘️酒店专区,#genre#
+CCTV1,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv1
+CCTV2,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv2
+CCTV3,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv3
+CCTV4,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv4
+CCTV4欧洲,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv4o
+CCTV4美洲,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv4a
+CCTV5,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv5
+CCTV5+,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv5p
+CCTV6,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv6
+CCTV7,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv7
+CCTV8,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv8
+CCTV9,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv9
+CCTV10,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv10
+CCTV11,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv11
+CCTV12,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv12
+CCTV13,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv13
+CCTV14,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv14
+CCTV15,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv15
+CCTV17,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cctv17
+CGTN,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cgtn
+CGTN2,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cgtn2
+CETV1,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cetv1
+CETV2,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cetv2
+CETV4,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cetv4
+CHC影迷电影,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=chcym
+CHC动作电影,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=chcdz
+CHC家庭影院,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=chcjt
+北京卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=bjws
+东方卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=dfws
+天津卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=tjws
+重庆卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=cqws
+黑龙江卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hljws
+吉林卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=jlws
+辽宁卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=lnws
+内蒙古卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq?id=nmws
+宁夏卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=nxws
+甘肃卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=gsws
+青海卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=qhws
+陕西卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=sxws
+河北卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hbws
+山西卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=sxiws
+山东卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=sdws
+安徽卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=ahws
+河南卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hnws
+河南卫视4K,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hnws4k
+湖北卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hubws
+湖南卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hunws
+江西卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=jxws
+浙江卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=zjws
+东南卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=dnws
+厦门卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=xmws
+广东卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=gdws
+深圳卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=szws
+广西卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=gxws
+云南卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=ynws
+贵州卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=gzws
+四川卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=scws
+新疆卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=xjws
+兵团卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=btws
+西藏卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=xzws
+海南卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hinws
+三沙卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=ssws
+河南都市,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hnds
+河南电视剧,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hndsj
+河南新闻,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hnxw
+河南新乡村,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hnxc
+河南法制,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hnfz
+国学频道,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=gxpd
+河南移动,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hnyd
+河南戏曲,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hnxq
+河南收藏,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hnsc
+河南功夫,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=hngf
+商丘新闻综合,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=sq1
+商丘公共,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=sq2
+商丘文体科技,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=sq3
+卡酷少儿,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=kkse
+中华特产,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=zhtc
+魅力时尚,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=mlss
+新动漫,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=xdm
+山东教育卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=sdjy
+金鹰纪实,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=jyjs
+金鹰卡通,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=jykt
+先锋乒羽,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=xfpy
+嘉佳卡通,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/mq.php?id=jjkt
+🌌☘️西安酒店,#genre#
+CCTV1,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=0
+CCTV2,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=1
+CCTV3,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=2
+CCTV4,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=3
+CCTV5,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=4
+CCTV5+,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=15
+CCTV6,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=5
+CCTV7,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=6
+CCTV8,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=7
+CCTV9,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=8
+CCTV10,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=9
+CCTV11,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=10
+CCTV12,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=11
+CCTV13,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=12
+CCTV14,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=13
+CCTV15,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=14
+CCTV16,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=16
+CCTV17,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=17
+风云剧场,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=18
+风云足球,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=19
+怀旧剧场,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=20
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=199
+凤凰中文,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=200
+陕西卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=shxws
+北京卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=bjws
+东方卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=shws
+天津卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=tjws
+黑龙江卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=hljws
+吉林卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=jlws
+辽宁卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=lnws
+甘肃卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=gsws
+山东卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=sdws
+安徽卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=ahws
+河南卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=hnws
+湖北卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=hubws
+湖南卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=hunws
+江西卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=jxws
+江苏卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=jsws
+浙江卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=zjws
+东南卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=dnws
+广东卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=gdws
+深圳卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=szws
+云南卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=ynws
+贵州卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=gzws
+四川卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=scws
+新疆卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=xjws
+西藏卫视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=xzws
+陕西新闻综合,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=201
+陕西都市青春,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=202
+陕西银龄,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=203
+陕西秦腔,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=204
+陕西西部电影,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=205
+西安新闻综合,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=206
+西安都市频道,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=207
+西安商务资讯,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=208
+西安戏剧影视,https://mg.345564.xyz/proxy.php?url=https://星河.xyz/太白金星李长寿/西安.php?id=209
 🌌☘️📡凤凰香港🍅,#genre#
 翡翠台1,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 翡翠台2 backup,https://mg.345564.xyz/proxy.php?url=http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
@@ -985,3 +1152,140 @@ ViuTV,https://mg.345564.xyz/proxy.php?url=http://r.jdshipin.com/vSJvl
 广州影视,https://mg.345564.xyz/proxy.php?url=http://r.jdshipin.com/sFw4S
 海峡卫视,https://mg.345564.xyz/proxy.php?url=http://r.jdshipin.com/WtYt3
 🍅☘️港澳台api.mytv666.top,#genre#
+🍅☘️港台斯玛特,#genre#
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=jade_twn
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Jade_xue
+无线新闻台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=inews_twn
+J 2,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=j2_twn
+珍珠台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=pearl_twn
+HOY资讯台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=hoycaijing_twn
+TVB星河,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Xinhe
+爱奇艺,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Qiyi
+华丽台HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Wlt
+欢喜台HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Huahee
+Astro QJ,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Quanjia
+TVB Jade,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Tvbjade
+TVB Asia,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Tvbasia
+TVB Entertainment,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Tvbentertainment
+TVB Classic,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Tvbclassic
+RHK 31,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=rhk31_twn
+RHK 32,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=rhk32_twn
+Viu6,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=viusix_twn
+VIUTV1,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=viu1_twn
+TVBS HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=tvbs
+中天新闻 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ctinews
+中天娱乐 CTI Entertaiment,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ctient
+中天综合 CTI Metro,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ctizhonghe
+中天亚洲台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ctiasia_twn
+台视 TTV HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ttv_taiwan
+台视新闻台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ttvnews_twn
+台视综合台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ttvzhonghe
+中视 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=zhongshihd_twn
+中视新闻台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=zhongshinews_twn
+民视 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ftvhd_taiwan
+民视新闻台 FTV News,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ftvnew_taiwan
+民视台湾台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ftvtaiwan_twn
+华视 CTS HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ctshd_twn
+公视 CTV,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ctv18_twn
+八大第一 GTV First,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=badafirst
+八大综合 GTV Metro,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=badazhonghe
+八大戏剧 GTV Drama,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=badadrama
+八大娱乐 GTV Entertainment,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=badaentertain
+HBO_HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=hbohd_twn
+HBO_HITS,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=hbohit_twn
+Hollywood Movies,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=hollywoodmovies_twn
+三立台湾 Sanli Taiwan,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=sanlitaiwan
+三立戏剧台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=sanlixiju_twn
+三立综合 Sanli Metro,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=sanlizhonghe
+三立都会台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=sanlidouhui
+东森新闻 ETTV News,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ettvnews
+CINEMAX,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cinemax_twn
+东森综合 ETTV Metro,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ettvzhonghe
+东森戏剧 ETTV Drama,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ettvdrama
+东森超视,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ettvsuper
+东森财经新闻 ETTV Business,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ettvcaijing_twn
+寰宇财经,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=huanyutaiwan_twn
+寰宇新闻台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=huanyuxinwen_twn
+公视2,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ctv2_twn
+大爱1台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=daai_twn
+非凡新闻台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=feifannews_twn
+龙华戏剧 Lunghua Drama,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=lunghuaxiju_twn
+龙华经典台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=lunghuajingdian_twn
+龙华偶像,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=lunghuaidol_twn
+AXN Taiwan,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=axn_twn
+靖天国际台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=jingtianintl_twn
+年代新闻,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=niandainews_twn
+纬来日本台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=videolandjapan
+纬来电影台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=videolandmovie
+纬来体育台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=videolandsport
+纬来综合台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=videolandzonghe
+纬来育乐,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=videolandyule
+纬来精彩,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=videolandspecial_twn
+好消息 2,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=good2_twn
+大爱2台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=daai2_twn
+亚洲美食,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=afc_twn
+美食星球,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=foodplanet_twn
+亚洲旅游 TLC Asia,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=tlc_twn
+东森电影 ETTV Movie,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ettvmovie
+阿里郎 Arirang,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=arirang_twn
+博斯运动 1,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=bosisport1_twn
+博斯运动 2,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=bosisport2_twn
+博斯高球2 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=bosigolf2_twn
+博斯网球 HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=bositennis_twn
+东森洋片 ETTV Western,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ettvwestern
+龙华洋片 Lunghua Western,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=lunghuawestern_twn
+博斯无限,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=bosiunlimited_twn
+MTV Live,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=mtvhd_twn
+龙详时代,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=lungxiangtime_twn
+EYETV 旅游,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=eyetvtravel_twn
+靖天卡通台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=jingtiancartoon_twn
+EYETV 戏剧,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=eyetvxiju_twn
+卫视中文台 Star Movies Chinese,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=weishichinese_twn
+东森幼幼 Yoyo TV,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=yoyo_twn
+卫视电影台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=weishimovie_twn
+美亚电影,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=meiyamovie_twn
+爱尔达影剧台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=eltayingju_twn
+爱尔达综合台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=eltazonghe_twn
+星卫电影,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=xingwei_movie
+爱尔达影剧,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=eltayingju_twn
+AFC 亚洲旅游台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=asiatravel_twn
+爱尔达体育2台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=eltasport2_twn
+爱尔达体育3台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=eltasport3_twn
+HBO_HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=hbohd_twn
+HBO_HITS,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=hbohit_twn
+Hollywood Movies,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=hollywoodmovies_twn
+CCTV-6,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cctv6
+CINEMAX,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=cinemax_twn
+Cinemax,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Cinemax
+AXN Taiwan,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=axn_twn
+大爱2台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=daai2_twn
+东森电影 ETTV Movie,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ettvmovie
+东森洋片 ETTV Western,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=ettvwestern
+龙华洋片,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=lunghuawestern_twn
+Animax,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Animax
+龙详时代,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=lungxiangtime_twn
+Movies Now HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=moviesnow_raj
+Star Movies HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=starmovies_raj
+卫视中文台 Star Movies Chinese,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=weishichinese_twn
+HBO Family,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Hbofamily
+Hits,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Hits
+Warner TV,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=WarnerTV
+卫视电影台,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=weishimovie_twn
+HBO HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Hbo
+美亚电影,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=meiyamovie_twn
+HBO Signature,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Hbosignature
+HBO Hits,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Hbohitshd
+星卫电影,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=xingwei_movie
+SCM,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Weishimovie
+Dreamworks,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Dreamworks
+Thrill,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Thrill
+Hits Movie,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Hitsmovie
+One,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=One
+tvN Movie,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Tvnmovie
+Celestial Classic,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Celestial2
+Celestial Movies HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Celestialindo
+Axn HD,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Axn
+Paramount Network,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Paramountnetwork
+Astrol Kplus,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Kplus
+Rock Actions,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Rockaction
+Rock Entertainment,https://mg.345564.xyz/proxy.php?url=http://mytv6688.xyz/smt.php?id=Rockentertain
